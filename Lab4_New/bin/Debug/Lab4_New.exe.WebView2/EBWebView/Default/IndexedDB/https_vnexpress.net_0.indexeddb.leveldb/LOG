@@ -1,0 +1,14 @@
+2023/05/19-18:01:49.064 1d48 Reusing MANIFEST C:\Users\DELL\21522094_NguyenHuyHoang\Lab4_New\bin\Debug\Lab4_New.exe.WebView2\EBWebView\Default\IndexedDB\https_vnexpress.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/19-18:01:49.064 1d48 Recovering log #100
+2023/05/19-18:01:49.065 1d48 Reusing old log C:\Users\DELL\21522094_NguyenHuyHoang\Lab4_New\bin\Debug\Lab4_New.exe.WebView2\EBWebView\Default\IndexedDB\https_vnexpress.net_0.indexeddb.leveldb/000100.log 
+2023/05/19-18:01:49.065 1d48 Delete type=2 #98
+2023/05/19-18:01:49.139 4a2c Level-0 table #105: started
+2023/05/19-18:01:49.143 4a2c Level-0 table #105: 1102 bytes OK
+2023/05/19-18:01:49.147 4a2c Delete type=0 #100
+2023/05/19-18:01:49.148 1d48 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00\x1f\x00\x00\x05' @ 691 : 1
+2023/05/19-18:01:49.148 1d48 Compacting 1@0 + 1@1 files
+2023/05/19-18:01:49.151 1d48 Generated table #106@0: 95 keys, 2274 bytes
+2023/05/19-18:01:49.151 1d48 Compacted 1@0 + 1@1 files => 2274 bytes
+2023/05/19-18:01:49.154 1d48 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/19-18:01:49.154 1d48 Delete type=2 #105
+2023/05/19-18:01:49.154 1d48 Manual compaction at level-0 from '\x00\x1f\x00\x00\x05' @ 691 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
